@@ -1,0 +1,11 @@
+{
+    "name": "sct-utilities",
+    "version": "0.0.1",
+    "description": "This package contains reusable functions across all SCT projects, validations and some helpers for error handling",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Islam Gad",
+    "license": "ISC"
+}
